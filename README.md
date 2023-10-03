@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **jordansidekick/jordansidekick** is a ✨ _special_ ✨ repository because its where I'm writing code that will impact hundreds of thousands of lives. `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jordan@sobersidekick.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I practice Mandarin Chinese every day. 
--->
+
